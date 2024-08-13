@@ -1,6 +1,3 @@
-nyesek susah banget ngumpulin ontime, capek sama diri sendiri 
-udah try hard dari beberapa hari sblmnya ujung2nya gagal lagi gagal lagi :')
-
 
 ----- KRITERIA 1 AND 2 -----------------------
 
