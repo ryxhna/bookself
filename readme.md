@@ -1,7 +1,6 @@
 
------ KRITERIA 1 AND 2 -----------------------
+----- KRITERIA 1 AND 2 -----------------------<br>
 Setup and Install 
-
 1.  create package.json<br>
     npm init --y
 2.  create src folder berisi server.js & route.js
@@ -19,12 +18,10 @@ Setup and Install
 8.  install ESLint to see problems in vscode<br>
     npm install eslint --save-dev<br>
     npx eslint --init<br>
-    added "lint": "eslint ./" to script in package.json
-
+    added "lint": "eslint ./" to script in package.json<br>
 
 ----- KRITERIA 3 s/d 7-----------------------------<br>
 API yang Anda buat harus sesuai dengan ketentuan project dan dibuat pada route.js:<br><br>
-
 Add Routing and Method request to project
 1.  routing request (routes.js)<br>
     const { ... } = require('./server');<br>
@@ -44,7 +41,7 @@ Add Routing and Method request to project
 npm uninstall nanoid<br>
 npm install nanoid@3<br><br>
 
-PENJELASAN OPSIONAL -----------------------------------------<br>
+PENJELASAN OPSIONAL ---------------------------------<br>
 http://localhost:{{port}}/books?reading=1<br>
 /books     --> endpoint <br>
 ?reading=1 --> request parameter (request.query)<br>
