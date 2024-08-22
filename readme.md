@@ -18,10 +18,10 @@ Setup and Install
 8.  install ESLint to see problems in vscode<br>
     npm install eslint --save-dev<br>
     npx eslint --init<br>
-    added "lint": "eslint ./" to script in package.json<br>
+    added "lint": "eslint ./" to script in package.json<br><br>
 
 ----- KRITERIA 3 s/d 7-----------------------------<br>
-API yang Anda buat harus sesuai dengan ketentuan project dan dibuat pada route.js:<br><br>
+API yang Anda buat harus sesuai dengan ketentuan project dan dibuat pada route.js:<br>
 Add Routing and Method request to project
 1.  routing request (routes.js)<br>
     const { ... } = require('./server');<br>
